@@ -49,7 +49,7 @@ rgbeLoader.load('https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/pond_bridg
 
 //camera
 const camera = new THREE.PerspectiveCamera(
-  40,
+  35,
   size.width / size.height,
   0.1,
   100
